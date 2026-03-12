@@ -1,7 +1,3 @@
-# Hey there
-
-I'm **Foued Douiri**, a **Software Engineer** passionate about building scalable, user-centric web applications. I work across the full stack and focus on creating reliable, efficient, and maintainable digital solutions.
-
 # Tech Skills
 
 ## Frontend & Web Development
