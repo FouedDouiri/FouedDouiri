@@ -42,9 +42,5 @@
 ![Jira](https://img.shields.io/badge/Jira-black?logo=jira)
 ![Trello](https://img.shields.io/badge/Trello-black?logo=trello)
 
-
 ---
-
 ![Profile Views](https://komarev.com/ghpvc/?username=FouedDouiri&color=grey)
-
-
