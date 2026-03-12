@@ -3,7 +3,7 @@
 I'm **Foued Douiri**, a **Software Engineer** passionate about building scalable, user-centric web applications. I work across the full stack and focus on creating reliable, efficient, and maintainable digital solutions.
 
 ## Tech Skills
-
+```
 ### Frontend & Web Development
 JavaScript • TypeScript • React • Next.js • Svelte • SvelteKit • HTML5 • CSS3 • Tailwind CSS • Bootstrap • ExtJS • UI/UX Design • Responsive Web Design
 
@@ -21,6 +21,7 @@ AWS (EC2, S3, Lambda) • OVH Cloud • Firebase • Vercel • Netlify • Apac
 
 ### Tools & Platforms
 Figma • Jira • Trello • Automation Workflows • Web Application Architecture • Booking & Reservation Platforms • Payment Link Generation • Email Automation • Sage Integration
+```
 
 ## What I Do
 
