@@ -1,26 +1,20 @@
-# Hey there
+ # Hey there
 
 I'm **Foued Douiri**, a **Software Engineer** passionate about building scalable, user-centric web applications. I work across the full stack and focus on creating reliable, efficient, and maintainable digital solutions.
 
 ## Tech Skills
 ```
-### Frontend & Web Development
-JavaScript • TypeScript • React • Next.js • Svelte • SvelteKit • HTML5 • CSS3 • Tailwind CSS • Bootstrap • ExtJS • UI/UX Design • Responsive Web Design
+Frontend & Web Development :JavaScript | TypeScript | React | Next.js | Svelte | SvelteKit | HTML5 | CSS3 | Tailwind CSS | Bootstrap | ExtJS | UI/UX Design | Responsive Web Design
 
-### Backend & Frameworks
-PHP • Laravel • Filament • Headless WordPress • Node.js • Express
+Backend & Frameworks :PHP | Laravel | Filament | Headless WordPress | Node.js | Express
 
-### Databases & APIs
-MongoDB • MySQL • REST APIs • API Integrations • Third-party OTA & PMS Integrations
+Databases & APIs :MongoDB| MySQL | REST APIs | API Integrations | Third-party OTA & PMS Integrations
 
-### Programming Languages
-Python • C
+Programming Languages : Python | C
 
-### Cloud, DevOps & Infrastructure
-AWS (EC2, S3, Lambda) • OVH Cloud • Firebase • Vercel • Netlify • Apache • Docker • Git • GitHub • GitHub Actions
+Cloud, DevOps & Infrastructure :AWS (EC2, S3, Lambda) • OVH Cloud • Firebase • Vercel • Netlify • Apache • Docker • Git • GitHub • GitHub Actions
 
-### Tools & Platforms
-Figma • Jira • Trello • Automation Workflows • Web Application Architecture • Booking & Reservation Platforms • Payment Link Generation • Email Automation • Sage Integration
+Tools & Platforms : Figma • Jira • Trello • Automation Workflows • Web Application Architecture • Booking & Reservation Platforms • Payment Link Generation • Email Automation • Sage Integration
 ```
 
 ## What I Do
