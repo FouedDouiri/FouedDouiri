@@ -1,5 +1,3 @@
-# Tech Skills
-
 ## Frontend & Web Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
@@ -43,33 +41,3 @@
 ![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
 ![Jira](https://img.shields.io/badge/Jira-black?logo=jira)
 ![Trello](https://img.shields.io/badge/Trello-black?logo=trello)
-
-# What I Do
-
-**Full-Stack Development**  
-Building complete web applications from concept to deployment.
-
-**Application Architecture**  
-Designing scalable and maintainable systems for modern web platforms.
-
-**API Integration**  
-Connecting third-party services, payment gateways, and external platforms.
-
-**Responsive Interfaces**  
-Creating mobile-first, accessible, and performant user interfaces.
-
-**Cloud Deployment**  
-Deploying and maintaining applications using modern cloud infrastructure.
-
-**Automation**  
-Building automation pipelines and workflows using GitHub Actions and custom scripts.
-
-## Current Focus
-
-Building solutions for **booking platforms**, **payment integrations**, **business automation**, and **enterprise web applications**, with strong attention to performance and usability.
-
-## Contact
-
-Feel free to reach out if you're interested in collaborating on projects or discussing web development.
-
-Open to collaborations and freelance opportunities.
