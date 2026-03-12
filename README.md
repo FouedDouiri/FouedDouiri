@@ -3,7 +3,7 @@
 I'm **Foued Douiri**, a **Software Engineer** passionate about building scalable, user-centric web applications. With expertise in full-stack development, I specialize in creating seamless digital experiences from frontend to backend.
 
 ##  Technical Skills & Expertise
-
+```
 ### **Frontend & Web Development**
 JavaScript (JS) • TypeScript (TS) • React • Next.js • Svelte • SvelteKit • HTML5 • CSS3 • Tailwind CSS • Bootstrap • ExtJS • UI/UX Design • Responsive Web Design
 
@@ -21,7 +21,7 @@ AWS (EC2, S3, Lambda) • OVH • Firebase • Vercel • Netlify • Apache •
 
 ### **Additional Tools & Expertise**
 Figma • Jira • Trello • Automation Workflows • Web Application Architecture • Booking & Reservation Platforms • Payment Link Generation • Email Automation • Sage Integration
-
+```
 ## What I Do
 
  **Full-Stack Development** - Building complete web applications from concept to deployment
