@@ -1,4 +1,4 @@
-## Frontend & Web Development
+# Frontend & Web Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
 ![React](https://img.shields.io/badge/React-black?logo=react)
@@ -9,23 +9,23 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?logo=bootstrap)
 
-## Backend & Frameworks
+# Backend & Frameworks
 ![PHP](https://img.shields.io/badge/PHP-black?logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-black?logo=laravel)
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
 ![WordPress](https://img.shields.io/badge/Headless_WordPress-black?logo=wordpress)
 
-## Databases & APIs
+# Databases & APIs
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql)
 ![REST API](https://img.shields.io/badge/REST_API-black)
 
-## Programming Languages
+# Programming Languages
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
 ![C](https://img.shields.io/badge/C-black?logo=c)
 
-## Cloud, DevOps & Infrastructure
+# Cloud, DevOps & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws)
 ![OVH](https://img.shields.io/badge/OVH-black)
 ![Firebase](https://img.shields.io/badge/Firebase-black?logo=firebase)
@@ -37,7 +37,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=githubactions)
 
-## Tools & Platforms
+# Tools & Platforms
 ![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
 ![Jira](https://img.shields.io/badge/Jira-black?logo=jira)
 ![Trello](https://img.shields.io/badge/Trello-black?logo=trello)
