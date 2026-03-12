@@ -1,21 +1,26 @@
- # Hey there
+# Hey there
 
 I'm **Foued Douiri**, a **Software Engineer** passionate about building scalable, user-centric web applications. I work across the full stack and focus on creating reliable, efficient, and maintainable digital solutions.
 
 ## Tech Skills
-```
-Frontend & Web Development :JavaScript | TypeScript | React | Next.js | Svelte | SvelteKit | HTML5 | CSS3 | Tailwind CSS | Bootstrap | ExtJS | UI/UX Design | Responsive Web Design
 
-Backend & Frameworks :PHP | Laravel | Filament | Headless WordPress | Node.js | Express
+Frontend & Web Development:  
+JavaScript | TypeScript | React | Next.js | Svelte | SvelteKit | HTML5 | CSS3 | Tailwind CSS | Bootstrap | ExtJS | UI/UX Design | Responsive Web Design
 
-Databases & APIs :MongoDB| MySQL | REST APIs | API Integrations | Third-party OTA & PMS Integrations
+Backend & Frameworks:  
+PHP | Laravel | Filament | Headless WordPress | Node.js | Express
 
-Programming Languages : Python | C
+Databases & APIs:  
+MongoDB | MySQL | REST APIs | API Integrations | Third-party OTA & PMS Integrations
 
-Cloud, DevOps & Infrastructure :AWS (EC2, S3, Lambda) • OVH Cloud • Firebase • Vercel • Netlify • Apache • Docker • Git • GitHub • GitHub Actions
+Programming Languages:  
+Python | C
 
-Tools & Platforms : Figma • Jira • Trello • Automation Workflows • Web Application Architecture • Booking & Reservation Platforms • Payment Link Generation • Email Automation • Sage Integration
-```
+Cloud, DevOps & Infrastructure:  
+AWS (EC2, S3, Lambda) | OVH Cloud | Firebase | Vercel | Netlify | Apache | Docker | Git | GitHub | GitHub Actions
+
+Tools & Platforms:  
+Figma | Jira | Trello | Automation Workflows | Web Application Architecture | Booking & Reservation Platforms | Payment Link Generation | Email Automation | Sage Integration
 
 ## What I Do
 
