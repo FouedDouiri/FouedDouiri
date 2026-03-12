@@ -8,6 +8,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-black?logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?logo=bootstrap)
+---
 
 ### Backend & Frameworks
 ![PHP](https://img.shields.io/badge/PHP-black?logo=php)
@@ -15,15 +16,18 @@
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
 ![WordPress](https://img.shields.io/badge/Headless_WordPress-black?logo=wordpress)
+---
 
 ### Databases & APIs
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql)
 ![REST API](https://img.shields.io/badge/REST_API-black)
+---
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
 ![C](https://img.shields.io/badge/C-black?logo=c)
+---
 
 ### Cloud, DevOps & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws)
@@ -36,6 +40,7 @@
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=githubactions)
+---
 
 ### Tools & Platforms
 ![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
