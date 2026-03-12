@@ -41,6 +41,13 @@
 ![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
 ![Jira](https://img.shields.io/badge/Jira-black?logo=jira)
 ![Trello](https://img.shields.io/badge/Trello-black?logo=trello)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FouedDouiri&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FouedDouiri&layout=compact&theme=dark)
+
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FouedDouiri&color=grey)
