@@ -1,56 +1,53 @@
-# Hey there 
+# Hey there
 
-I'm **Foued Douiri**, a **Software Engineer** passionate about building scalable, user-centric web applications. With expertise in full-stack development, I specialize in creating seamless digital experiences from frontend to backend.
+I'm **Foued Douiri**, a **Software Engineer** passionate about building scalable, user-centric web applications. I work across the full stack and focus on creating reliable, efficient, and maintainable digital solutions.
 
-##  Technical Skills & Expertise
-```
-### **Frontend & Web Development**
-JavaScript (JS) • TypeScript (TS) • React • Next.js • Svelte • SvelteKit • HTML5 • CSS3 • Tailwind CSS • Bootstrap • ExtJS • UI/UX Design • Responsive Web Design
+## Tech Skills
 
-### **Backend & Frameworks**
+### Frontend & Web Development
+JavaScript • TypeScript • React • Next.js • Svelte • SvelteKit • HTML5 • CSS3 • Tailwind CSS • Bootstrap • ExtJS • UI/UX Design • Responsive Web Design
+
+### Backend & Frameworks
 PHP • Laravel • Filament • Headless WordPress • Node.js • Express
 
-### **Databases & APIs**
-MongoDB • MySQL • RESTful APIs • API Integrations • Third-party OTA & PMS Integrations
+### Databases & APIs
+MongoDB • MySQL • REST APIs • API Integrations • Third-party OTA & PMS Integrations
 
-### **Programming & Scripting**
+### Programming Languages
 Python • C
 
-### **Cloud & DevOps**
-AWS (EC2, S3, Lambda) • OVH • Firebase • Vercel • Netlify • Apache • Docker • Git/GitHub • GitHub Actions/Workflows
+### Cloud, DevOps & Infrastructure
+AWS (EC2, S3, Lambda) • OVH Cloud • Firebase • Vercel • Netlify • Apache • Docker • Git • GitHub • GitHub Actions
 
-### **Additional Tools & Expertise**
+### Tools & Platforms
 Figma • Jira • Trello • Automation Workflows • Web Application Architecture • Booking & Reservation Platforms • Payment Link Generation • Email Automation • Sage Integration
-```
+
 ## What I Do
 
- **Full-Stack Development** - Building complete web applications from concept to deployment
- **Modern Architecture** - Designing scalable, maintainable application structures
- **API Integration** - Connecting complex third-party systems seamlessly
- **Responsive Design** - Creating beautiful, mobile-first user interfaces
- **Cloud Solutions** - Deploying and managing applications on AWS, Firebase, and Vercel
- **Automation** - Streamlining workflows with GitHub Actions and custom automation
+**Full-Stack Development**  
+Building complete web applications from concept to deployment.
 
-##  Featured Technologies
+**Application Architecture**  
+Designing scalable and maintainable systems for modern web platforms.
 
-```
-Frontend Stack: React | Next.js | TypeScript | Tailwind CSS
-Backend Stack: Node.js/Express | PHP/Laravel | Python
-Databases: MongoDB | MySQL
-Cloud & Deployment: AWS | Firebase | Vercel | Docker
-```
+**API Integration**  
+Connecting third-party services, payment gateways, and external platforms.
 
-##  Current Focus
+**Responsive Interfaces**  
+Creating mobile-first, accessible, and performant user interfaces.
 
-Building innovative solutions for **booking platforms**, **payment integrations**, and **enterprise applications** with a focus on performance and user experience.
+**Cloud Deployment**  
+Deploying and maintaining applications using modern cloud infrastructure.
 
-##  Let's Connect
+**Automation**  
+Building automation pipelines and workflows using GitHub Actions and custom scripts.
 
-Feel free to reach out if you're interested in collaborating on projects or discussing web development!
+## Current Focus
 
--  Open to collaborations and freelance opportunities
--  Always happy to discuss technology and new ideas
--  Check out my pinned repositories below for my latest work
+Building solutions for **booking platforms**, **payment integrations**, **business automation**, and **enterprise web applications**, with strong attention to performance and usability.
 
----
+## Contact
 
+Feel free to reach out if you're interested in collaborating on projects or discussing web development.
+
+Open to collaborations and freelance opportunities.
