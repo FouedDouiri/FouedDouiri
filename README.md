@@ -1,4 +1,4 @@
-# Frontend & Web Development
+## Frontend & Web Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
 ![React](https://img.shields.io/badge/React-black?logo=react)
