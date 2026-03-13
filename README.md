@@ -45,5 +45,6 @@
 ![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
 ![Jira](https://img.shields.io/badge/Jira-black?logo=jira)
 ![Trello](https://img.shields.io/badge/Trello-black?logo=trello)
+![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-black?logo=unrealengine)
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=FouedDouiri&color=grey)
