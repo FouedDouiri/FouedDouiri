@@ -46,5 +46,7 @@
 ![Jira](https://img.shields.io/badge/Jira-black?logo=jira)
 ![Trello](https://img.shields.io/badge/Trello-black?logo=trello)
 ![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-black?logo=unrealengine)
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)
+ ![PowerShell](https://img.shields.io/badge/PowerShell-black?logo=powershell)
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=FouedDouiri&color=grey)
