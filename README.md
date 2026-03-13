@@ -27,6 +27,7 @@
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
 ![C](https://img.shields.io/badge/C-black?logo=c)
+![YAML](https://img.shields.io/badge/YAML-black?logo=yaml)
 ---
 ### Cloud, DevOps & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws)
