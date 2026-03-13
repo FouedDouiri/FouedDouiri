@@ -12,7 +12,6 @@
 ![Vite](https://img.shields.io/badge/Vite-black?logo=vite)
 
 ---
-
 ### Backend & Frameworks
 ![PHP](https://img.shields.io/badge/PHP-black?logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-black?logo=laravel)
@@ -22,20 +21,17 @@
 ![WordPress](https://img.shields.io/badge/Headless_WordPress-black?logo=wordpress)
 
 ---
-
 ### Databases & APIs
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql)
 ![REST API](https://img.shields.io/badge/REST_API-black)
 
 ---
-
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
 ![C](https://img.shields.io/badge/C-black?logo=c)
 
 ---
-
 ### Cloud, DevOps & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws)
 ![OVH](https://img.shields.io/badge/OVH-black)
@@ -49,7 +45,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=githubactions)
 
 ---
-
 ### Tools & Platforms
 ![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
 ![Jira](https://img.shields.io/badge/Jira-black?logo=jira)
