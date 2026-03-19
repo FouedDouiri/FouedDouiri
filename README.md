@@ -5,6 +5,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
 ![Svelte](https://img.shields.io/badge/Svelte-black?logo=svelte)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-black?logo=svelte)
+![Vue.js](https://img.shields.io/badge/Vue.js-black?logo=vue.js)
+![Nuxt 3](https://img.shields.io/badge/Nuxt%203-black?logo=nuxtdotjs)
 ![HTML5](https://img.shields.io/badge/HTML5-black?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss)
