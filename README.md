@@ -26,7 +26,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql)
 ![REST API](https://img.shields.io/badge/REST_API-black)
 ---
-### Programming Languages
+### Scripting
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
 ![C](https://img.shields.io/badge/C-black?logo=c)
 ![YAML](https://img.shields.io/badge/YAML-black?logo=yaml)
